@@ -1,0 +1,38 @@
+
+
+    body{
+        border:35px solid #000;
+        padding: 50px;
+        margin:50px 250px;
+        border-color:rgba(65, 81, 218, 0.623)  ;
+        width:35%;
+        
+        
+        }
+        #peso{
+        margin-left: 150px;
+            
+        }
+      #estatura{
+     margin-left: 150px;
+                
+      }
+     .boton{
+     margin-left: 200px;
+     background: rgb(49, 167, 68);
+     color: white;
+                    
+     }
+     #mostrar{
+     color:red;
+     margin-left: 150px;
+     font-size: 20px;
+                         
+   }
+
+  h3{
+  margin-left: 40px;
+  }
+                    
+                
+            
